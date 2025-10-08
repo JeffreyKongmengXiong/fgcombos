@@ -10,7 +10,7 @@ Welcome to the 2XKO section!
   <br>
   <a style="font-size: 32px;">Optimal Ice Combo</a>
   <br>
-  <a style="font-size: 20px; font-color:white;">Universal</a>
+  <a style="font-size: 20px; text-color:white;">Universal</a>
   <br>
   damage: 441/549
   <br>
@@ -18,7 +18,7 @@ Welcome to the 2XKO section!
   [L] > [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
   </div>
   <br>
-  <a style="font-size: 20px; font-color:white;">Corner</a>
+  <a style="font-size: 20px; text-color:white;">Corner</a>
   <br>
   damage: 462/566
   <br>
@@ -26,7 +26,7 @@ Welcome to the 2XKO section!
   [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
   </div>
   <br>
-  <a style="font-size: 20px; font-color:white;">Corner Cash Out</a>
+  <a style="font-size: 20px; text-color:white;">Corner Cash Out</a>
   <br>
   damage: 586/690
   <br>
