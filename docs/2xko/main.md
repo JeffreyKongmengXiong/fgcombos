@@ -7,41 +7,41 @@ layout: default
 {% capture content %}
 Welcome to the 2XKO section!
 <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-  <br><br>
+  <br>
   damage: 441
-  <br><br>
+  <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [L] > [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
   </div>
-  <br><br>
+  <br>
   damage: 462
-  <br><br>
+  <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
   </div>
-  <br><br>
+  <br>
   damage: 586
-  <br><br>
+  <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [H] > jc > [S1] > [M][S2]
   </div>
-
+  <br><br>
   <a style="font-size: 32px;">Medium</a>
-  <br><br>
+  <br>
   damage: 549
-  <br><br>
+  <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
   </div>
-  <br><br>
+  <br>
   damage: 566
-  <br><br>
+  <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
   </div>
-  <br><br>
+  <br>
   damage: 690
-  <br><br>
+  <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [H] > jc > [S1] > [M][S2]
   </div>
