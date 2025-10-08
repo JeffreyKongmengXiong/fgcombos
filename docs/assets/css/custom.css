@@ -1,21 +1,40 @@
-/* Make the main content wider and centered */
+/* === Force wider and centered main content === */
+html, body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* The outer container of all content */
 .wrapper {
   max-width: 1200px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding: 0 2rem !important; /* add side padding for breathing room */
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
   box-sizing: border-box;
 }
 
-/* Improve readability */
+/* Some versions of the Midnight theme use #main or #content */
+#main, #content {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  width: 100% !important;
+  padding: 0 2rem !important;
+  box-sizing: border-box;
+}
+
+/* Improve text readability */
 body {
   font-size: 18px !important;
   line-height: 1.7 !important;
 }
 
-/* Keep text centered and aligned nicely */
+/* Stretch sections/articles to match new width */
 section, article {
+  display: block;
+  max-width: 100% !important;
   margin: 0 auto;
+  padding: 0;
 }
 
 /* Make code blocks fit the wider layout */
@@ -24,4 +43,10 @@ pre, code {
   white-space: pre-wrap;
   word-wrap: break-word;
   max-width: 100%;
+}
+
+/* Optional: make header/nav full width too */
+header, .header, #header {
+  width: 100% !important;
+  max-width: none !important;
 }
