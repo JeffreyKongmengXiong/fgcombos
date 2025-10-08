@@ -7,7 +7,7 @@ html, body {
 
 /* The outer container of all content */
 .wrapper {
-  max-width: 1200px !important;
+  max-width: 1600px !important;
   width: 100% !important;
   margin: 0 auto !important;
   padding: 0 2rem !important;
