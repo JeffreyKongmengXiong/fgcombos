@@ -1,3 +1,18 @@
+/* Make the main content wider */
 .wrapper {
-  max-width: 1200px;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+}
+
+/* Larger and easier-to-read text */
+body {
+  font-size: 18px !important;
+  line-height: 1.7 !important;
+}
+
+/* Optional: make code blocks match new width */
+pre, code {
+  font-size: 16px !important;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
