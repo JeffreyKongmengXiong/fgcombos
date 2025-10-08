@@ -18,14 +18,16 @@ Welcome to the 2XKO section!
   [L] > [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
   </div>
   <br>
-  <a style="font-size: 20px;">Corner</a>
+  <a style="font-size: 20px; font-color:white;">Corner</a>
+  <br>
   damage: 462/566
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
   </div>
   <br>
-  <a style="font-size: 20px;">Corner Cash Out</a>
+  <a style="font-size: 20px; font-color:white;">Corner Cash Out</a>
+  <br>
   damage: 586/690
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
