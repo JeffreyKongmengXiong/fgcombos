@@ -10,7 +10,7 @@ Welcome to the 2XKO section!
   <br>
   <a style="font-size: 32px;">Optimal Ice Combo</a>
   <br>
-  <a style="font-size: 20px;">Universal</a>
+  <a style="font-size: 20px; font-color:white;">Universal</a>
   <br>
   damage: 441/549
   <br>
