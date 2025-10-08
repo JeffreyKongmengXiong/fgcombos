@@ -7,7 +7,13 @@ layout: default
 {% capture content %}
 Welcome to the 2XKO section!
 <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-[L] > [M] > [H] > ICE[S1] > [66] > [[6][H]] > [44] > [[6][H]] > [44] > [[6][S1]] > [66] > [M] > [H] > [H] > [S1] > [S1]
+[L] > [M] > [H] > ICE[S1] > [66] > [[6][H]] > [44] > [[6][H]] > [44] > [[6][S1]] > [66] > [M] > [H] > [H] > [S2] > [S2]
+</div>
+<div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+[L] > [M] > [H] > ICE[S1] > [66] > [[6][H]] > [44] > [[6][H]] > [44] > [[6][S1]] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2]
+</div>
+<div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+[L] > [M] > [H] > ICE[S1] > [66] > [[6][H]] > [44] > [[6][H]] > [44] > [[6][S1]] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [H] > jc > [S1] > [M][S2]
 </div>
 {% endcapture %}
 
@@ -27,5 +33,9 @@ Welcome to the 2XKO section!
 {% assign content = content | replace: '[9]', '<img src="../assets/images/2xko_9.png" alt="M" style="height:1em;vertical-align:middle;">' %}
 {% assign content = content | replace: '[44]', '<img src="../assets/images/2xko_44.png" alt="M" style="height:1em;vertical-align:middle;">' %}
 {% assign content = content | replace: '[66]', '<img src="../assets/images/2xko_66.png" alt="M" style="height:1em;vertical-align:middle;">' %}
+{% assign content = content | replace: '[HOLD]', '<img src="../assets/images/2xko_HOLD.png" alt="M" style="height:1em;vertical-align:middle;">' %}
+{% assign content = content | replace: '[ICE]', '<img src="../assets/images/2xko_ICE.png" alt="M" style="height:1em;vertical-align:middle;">' %}
+{% assign content = content | replace: '[RAGE]', '<img src="../assets/images/2xko_RAGE.png" alt="M" style="height:1em;vertical-align:middle;">' %}
+{% assign content = content | replace: '[FIRE]', '<img src="../assets/images/2xko_FIRE.png" alt="M" style="height:1em;vertical-align:middle;">' %}
 
 {{ content }}
