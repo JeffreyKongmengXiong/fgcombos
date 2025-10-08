@@ -1,18 +1,27 @@
-/* Make the main content wider */
+/* Make the main content wider and centered */
 .wrapper {
   max-width: 1200px !important;
-  margin: 0 auto !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 0 2rem !important; /* add side padding for breathing room */
+  box-sizing: border-box;
 }
 
-/* Larger and easier-to-read text */
+/* Improve readability */
 body {
   font-size: 18px !important;
   line-height: 1.7 !important;
 }
 
-/* Optional: make code blocks match new width */
+/* Keep text centered and aligned nicely */
+section, article {
+  margin: 0 auto;
+}
+
+/* Make code blocks fit the wider layout */
 pre, code {
   font-size: 16px !important;
   white-space: pre-wrap;
   word-wrap: break-word;
+  max-width: 100%;
 }
