@@ -1,2 +1,10 @@
 theme: jekyll-theme-midnight
 markdown: GFM
+
+# Add this line if it’s not already there:
+plugins:
+  - jekyll-remote-theme
+
+# Optional but helpful:
+include:
+  - assets/css/custom.css
