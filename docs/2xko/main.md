@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<img src="../assets/images/2xko_L.png">
+<img src="/docs/assets/images/2xko_L.png">
+<img src="assets/images/2xko_L.png">
+
 {% capture content %}
 Welcome to the 2XKO section!
 
