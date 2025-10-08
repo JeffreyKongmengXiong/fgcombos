@@ -8,42 +8,28 @@ layout: default
 Welcome to the 2XKO section!
 <div style="font-size: 24px; text-align:left; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   <br>
-  damage: 441
+  <a style="font-size: 32px;">Optimal Ice Combo</a>
+  <br>
+  <a style="font-size: 20px;">Universal</a>
+  <br>
+  damage: 441/549
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [L] > [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
   </div>
   <br>
-  damage: 462
+  <a style="font-size: 20px;">Corner</a>
+  damage: 462/566
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
   </div>
   <br>
-  damage: 586
+  <a style="font-size: 20px;">Corner Cash Out</a>
+  damage: 586/690
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [H] > jc > [S1] > [M][S2]
-  </div>
-  <br><br>
-  <a style="font-size: 32px;">Medium</a>
-  <br>
-  damage: 549
-  <br>
-  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-  [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
-  </div>
-  <br>
-  damage: 566
-  <br>
-  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-  [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
-  </div>
-  <br>
-  damage: 690
-  <br>
-  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-  [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [H] > jc > [S1] > [M][S2]
   </div>
 </div>
 {% endcapture %}
