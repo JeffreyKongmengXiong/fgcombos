@@ -6,7 +6,7 @@ layout: default
 
 {% capture content %}
 Welcome to the 2XKO section!
-<div style="font-size: 30px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+<div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
 [L] > [M] > [H] > ICE[S1] > [66] > [[6][H]] > [44] > [[6][H]] > [44] > [[6][S1]] > [66] > [M] > [H] > [H] > [S1] > [S1]
 </div>
 {% endcapture %}
