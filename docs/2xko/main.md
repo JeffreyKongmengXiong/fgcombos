@@ -44,7 +44,8 @@ Loop through each content block and apply all replacements
     {% assign parts = r | split: "," %}
     {% assign symbol = parts[0] %}
     {% assign path = parts[1] %}
-    {% assign temp = temp | replace: "[[#{symbol}]]", '<img src="[[#{symbol}]]">' %}
+    {% assign replacement = '<img src="' | append: path | append: '" alt="' | append: symbol | append: '" style="height:1em;vertical-align:middle;">' %}
+    {% assign temp = temp | replace: "[[#{symbol}]]", replacement %}
   {% endfor %}
   {% assign processed_contents = processed_contents | append: temp | append: "<br>" | append: "<br>" %}
 {% endfor %}
