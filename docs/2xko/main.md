@@ -7,7 +7,87 @@ layout: default
 {% capture content %}
 Welcome to the 2XKO section!
 <div style="font-size: 24px; text-align:left; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+  <a style="font-size: 32px;">Optimal Far Confirm Combo</a>
   <br>
+  <a style="font-size: 20px; color:white;">Far L</a>
+  <br>
+  damage: 347/442
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [2H] > [2H] > [S2][HOLD] > [66] > [M] > [2M] > [H] > [H] > [S2] > [S2]
+  </div>
+  <br>
+  <a style="font-size: 20px; color:white;">Far M</a>
+  <br>
+  damage: 381
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;">
+    [M] > [H] > [3][H] > [6][S1] > [66] > [M] > [2][M] > [H] > [H] > [S2] > [S2] 
+  </div>
+</div>
+<div style="font-size: 24px; text-align:left; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+  <a style="font-size: 32px;">Optimal Non-Corner Combo</a>
+  <br>
+  <a style="font-size: 20px; color:white;">Non-Corner</a>
+  <br>
+  damage: 375/468
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [H] > [2][H] > [6][H] > [S1] > [66] > [S2][HOLD] > [66] > [M] > [2][M] > [S2] > [S2]
+  </div>
+  <br>
+  <a style="font-size: 20px; color:white;">Into Corner</a>
+  <br>
+  damage: 375/468
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [H] > [2][H] > [6][H] > [S1] > [66] > [S2][HOLD] > [66] > [M] > [2][H] > [6][H] > [S2] > [S2]
+  </div>
+  <br>
+  <a style="font-size: 20px; color:white;">Hitstun Assist</a>
+  <br>
+  damage: 399/474
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [H] > [2][H] > [2][H] > [S2][HOLD] > [S2] > [S2] > [T] > [H] > [2][S2] > [S2] > [S2]
+  </div>
+  <br>
+  <a style="font-size: 20px; color:white;">Restand Assist</a>
+  <br>
+  damage: 423/502
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [2][H] > [2][H] > [S2][HOLD] > [M] > [2][M] > [S2] > [S2] > [T] > [66] > [2M] > [M] > [H] > [2][S2] > [S2] > [S2]
+  </div>
+</div>
+<div style="font-size: 24px; text-align:left; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+  <a style="font-size: 32px;">Optimal Corner Combo</a>
+  <br>
+  <a style="font-size: 20px; color:white;">Universal</a>
+  <br>
+  damage: 408/484
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [H] > [6][H] > [6][H] > [S2][HOLD] > [M] > [2][H] > [2][H] > [S1][HOLD] > [2][H] > [2][H] > jc > j[S2] > [6][H] > [S2] > [S2]
+  </div>
+  <br>
+  <a style="font-size: 20px; color:white;">Blowback/Hitstun Assist</a>
+  <br>
+  damage: 426/507
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [H] > [S1] > [S2] > [S2] > [T] > [M] > [H] > [2][S2] > [S2] > [S2]
+  </div>
+  <br>
+  <a style="font-size: 20px; color:white;">Restand Assist</a>
+  <br>
+  damage: 452/533
+  <br>
+  <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
+    [L] > [M] > [H] > [S1] > [M] > [2][M] > [6][H] > [6][H] > d[S2] > [S2] > [T] > [M] > [H] > [2][S2] > [S2] > [S2]
+  </div>
+</div>
+<div style="font-size: 24px; text-align:left; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
   <a style="font-size: 32px;">Optimal Ice Combo</a>
   <br>
   <a style="font-size: 20px; color:white;">Universal</a>
@@ -15,7 +95,7 @@ Welcome to the 2XKO section!
   damage: 441/549
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-  [L] > [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
+    [L] > [M] > [H] > [ICE][S1] > [66] > [6][H][HOLD] > [44] > [6][H][HOLD] > [66] > [6][S1][HOLD] > [66] > [M] > [H] > [H] > [S2] > [S2]
   </div>
   <br>
   <a style="font-size: 20px; color:white;">Corner</a>
@@ -23,7 +103,7 @@ Welcome to the 2XKO section!
   damage: 462/566
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-  [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
+    [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [S2] > [S2]
   </div>
   <br>
   <a style="font-size: 20px; color:white;">Corner Cash Out</a>
@@ -31,7 +111,7 @@ Welcome to the 2XKO section!
   damage: 586/690
   <br>
   <div style="font-size: 24px; text-align:center; border: 1px solid #d0d7de; border-radius: 8px; padding: 16px; display: inline-block;"> 
-  [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [H] > jc > [S1] > [M][S2]
+    [L] > [M] > [H] > [ICE][S1] > [44] > [6][H][HOLD] > [44] > [6][H][HOLD] > [44] > [6][S1][HOLD] > [66] > [2][M] > [M] > [2][H] > [2][H] > jc > j[S2] > [H] > jc > [S1] > [M][S2]
   </div>
 </div>
 {% endcapture %}
